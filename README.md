@@ -16,7 +16,7 @@ Fine_tuning.ipynb provides details about fine-tuning, training LM, and inference
 ### Results
 | Base Model | WER|
 |------------|----|
-|IndicWav2Vec_base | 39|
+|IndicWav2Vec_base | 28.6|
 
 ### Downloads
 | Model | link |
